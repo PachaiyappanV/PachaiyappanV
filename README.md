@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Pachaiyappan+😎;Full-Stack+Developer+from+India+🇮🇳" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=60&duration=2000&lines=Hi+There!+👋;+I'm+Pachaiyappan+😎;Front-End+Developer;Full-Stack+Developer+from+India+🇮🇳" />
 </p>
 <h3 align="center">🚀 Passionate about building scalable, user-friendly, and innovative web applications.</h3>
 
